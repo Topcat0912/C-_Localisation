@@ -250,7 +250,7 @@ Draw.loadPlugin(function (ui) {
         c4Database.setAttribute('placeholders', '1');
         c4Database.setAttribute('c4Type', 'Database');
         c4Database.setAttribute('c4Technology', 'technology');
-        c4Database.setAttribute('c4Description', 'Beschreibung');
+        c4Database.setAttribute('c4Description', 'The Datastore');
         c4Database.c4 = this;
         return c4Database;
     };
